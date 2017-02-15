@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SSDI_Baggage_Finder">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="SSDI_Baggage_Finder"/>
+        <property name="java-output-path" value="/SSDI_Baggage_Finder/build/classes"/>
+    </wb-module>
+</project-modules>
